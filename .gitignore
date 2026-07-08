@@ -1,5 +1,5 @@
 .env
-config/airflow.cfg
+airflow/config/airflow.cfg
 logs/
 **/__pycache__/
 *.pyc
